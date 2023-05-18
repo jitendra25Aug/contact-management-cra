@@ -18,11 +18,13 @@ This is a contact management app with Charts and Maps that displays Covid-19 dat
 - axios
 - nanoid
 
+### Site URL
+https://temp-contact-cra.netlify.app/
 
-### Page Functionalities
-# Contacts
+## Page Functionalities
+### Contacts
 Displays the list of contacts. You can also add, edit or delete a contact from this page.
-# Charts and Maps
+### Charts and Maps
 Displays COVID-19 data for different countries.
 The line graph shows the cases fluctuations over time and the Map shows country related covid data.
 
